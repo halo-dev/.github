@@ -4,7 +4,7 @@
     </a>
 </p>
 
-<p align="center"><b>Halo</b> [ˈheɪloʊ]，一款现代化的开源建站 / CMS 系统。</p>
+<p align="center"><b>Halo</b> [ˈheɪloʊ]，好用又强大的开源站点工具。</p>
 
 <p align="center">
 <a href="https://github.com/halo-dev/halo/releases"><img alt="GitHub release" src="https://img.shields.io/github/release/halo-dev/halo.svg?style=flat-square&include_prereleases" /></a>
