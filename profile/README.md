@@ -19,7 +19,7 @@
 ## 相关链接
 
 - [官网](https://halo.run)
-- [文档（2.0 Beta）](https://docs.halo.run/2.0.0-SNAPSHOT)
+- [文档](https://docs.halo.run)
 
 ## 相关组织
 
