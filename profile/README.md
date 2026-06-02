@@ -17,8 +17,10 @@
 
 ## 相关链接
 
-- [官网](https://halo.run)
+- [官网](https://www.halo.run)
 - [文档](https://docs.halo.run)
+- [应用市场](https://www.halo.run/store/apps)
+- [开发者入驻](https://www.halo.run/archives/halo-app-store-developer-onboarding-app-creation)
 
 ## 相关组织
 
@@ -28,6 +30,5 @@
 
 - [GitHub Discussion](https://github.com/halo-dev/halo/discussions)
 - [Halo 官方论坛](https://bbs.halo.run/)
-- [Slack](https://join.slack.com/t/halodev/shared_invite/zt-1j5i6vs8w-~oGKFM6R_~cpEO1irk3VVA)
 - [Telegram 群组](https://t.me/HaloBlog)
 - [Telegram 频道](https://t.me/halo_dev)
