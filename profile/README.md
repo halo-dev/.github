@@ -20,7 +20,7 @@
 - [官网](https://www.halo.run)
 - [文档](https://docs.halo.run)
 - [应用市场](https://www.halo.run/store/apps)
-- [开发者入驻](https://www.halo.run/archives/halo-app-store-developer-onboarding-app-creation)
+- [应用市场入驻](https://www.halo.run/archives/halo-app-store-developer-onboarding-app-creation)
 
 ## 相关组织
 
